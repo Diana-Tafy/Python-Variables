@@ -1,8 +1,8 @@
-# Python Variables Practice Exercises 🐍
+# Python Variables Practice Exercises 
 
 A beginner-friendly collection of Python exercises designed to build, test, and master the fundamentals of **variables**, data types, math operators, and code debugging. 
 
-This repository is optimized to be run directly inside a cloud notebook environment like **Databricks** or **Jupyter Notebooks**.
+This repository is optimized to be run directly inside a cloud notebook environment like **Databricks**
 
 ---
 
