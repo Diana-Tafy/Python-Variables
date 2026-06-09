@@ -20,23 +20,6 @@ The exercises contained in this repository break down as follows:
 
 ---
 
-## 💻 Environment Setup & Requirements
-
-To run these exercises successfully, you will need a Python 3 environment. 
-
-### Running in Databricks (Recommended)
-If you cloned this repository into a Databricks Workspace Git Folder:
-1. Ensure your notebook is attached to an active **General Compute** cluster (SQL Warehouses do not support Python cell execution).
-2. Ensure the notebook language dropdown at the top is set to **Python**.
-3. Run each cell sequentially using `Shift + Enter`.
-
-### Running Locally
-If running on your local machine:
-* Python 3.8 or higher installed.
-* Run via a local IDE (like VS Code or PyCharm) or launch a local instance of Jupyter Notebook.
-
----
-
 ## 📝 Practice Prompts
 
 ### Exercise 1: The Bio Builder (Warm-up)
